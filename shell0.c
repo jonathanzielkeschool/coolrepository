@@ -1,9 +1,4 @@
-/*
- *  shell0.c 
- *  simplest shell. 
- *     running in loop to read input string (command) to be processed
- *     To exit, type EOF (ctlr+D) or ctlr+C 
- */
+
 #include <sys/types.h>
 #include <sys/wait.h>
 #include <errno.h>
